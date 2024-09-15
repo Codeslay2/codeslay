@@ -1,2 +1,2 @@
 # codeslay
-My 1st gitrepo
+My 1st git Repo
